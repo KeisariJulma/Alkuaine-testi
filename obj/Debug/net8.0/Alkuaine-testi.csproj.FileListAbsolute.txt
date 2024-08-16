@@ -1,0 +1,15 @@
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.exe
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.deps.json
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.runtimeconfig.json
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.pdb
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfoInputs.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfo.cs
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.csproj.CoreCompileInputs.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.sourcelink.json
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\refint\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.pdb
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.genruntimeconfig.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\ref\Alkuaine-testi.dll
