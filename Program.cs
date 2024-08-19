@@ -16,13 +16,23 @@ class Alkemisti
                 Console.WriteLine("Ohjelma lopetetaan.");
                 return;
             }
-            if (args[0] == "-help" || args[0] == "-h")
+            else if (args[0] == "-help" || args[0] == "-h")
             {
                 Console.WriteLine("Apu");
                 Console.WriteLine("p: Pelaa");
                 Console.WriteLine("t: Pisteet");
                 Console.WriteLine("quit, exit, q, x: Lopeta ohjelma.");
             }
+
+            else if (args[0] == "p")
+            {
+                Console.WriteLine("Peli alkaa.");
+            }
+            else if (args[0] == "t")
+            {
+                Console.WriteLine("Pisteet");
+            }
+
             else if (args[0] == "-readfile")
             {
                 if (args.Length < 2)
