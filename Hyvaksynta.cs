@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
@@ -18,11 +19,15 @@ public class Hyvaksynta
                 {
                     Console.WriteLine("samaa vastausta ei saa kirjoittaa kahdesti");
                 }
+                else
+                {
+                    vastaukset.Add(vastaus);
+                }
             }
             kysymystenMäärä++;
             if (kysymystenMäärä > 5)
             {
-
+                vastaukset.Clear();
             }
         }
     }
