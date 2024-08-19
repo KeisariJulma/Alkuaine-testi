@@ -19,10 +19,7 @@ public class Hyvaksynta
                 {
                     Console.WriteLine("samaa vastausta ei saa kirjoittaa kahdesti");
                 }
-                else
-                {
-                    vastaukset.Add(vastaus);
-                }
+                vastaukset.Add(vastausLista);
             }
             kysymystenMäärä++;
             if (kysymystenMäärä > 5)
