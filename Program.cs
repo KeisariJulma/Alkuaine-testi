@@ -1,6 +1,5 @@
 using System;
-
-
+using static FileReader;
 
 class Alkemisti
 {
@@ -23,23 +22,23 @@ class Alkemisti
                 Console.WriteLine("p: Pelaa");
                 Console.WriteLine("t: Pisteet");
                 Console.WriteLine("quit, exit, q, x: Lopeta ohjelma.");
-                Console.WriteLine("-help, -h: Näytä tämä ohje.");
-                return;
             }
-
-            if (args[0] == "p")
+            else if (args[0] == "-readfile")
             {
-                Console.WriteLine("Pelaa");
-                return;
+                if (args.Length < 2)
+                {
+                    Console.WriteLine("Anna tiedoston nimi.");
+                }
+                else
+                {
+                    string fileName = args[1];
+                    List<string> lines = ReadFileToList(fileName);
+                    foreach (string line in lines)
+                    {
+                        Console.WriteLine(line);
+                    }
+                }
             }
-
-            if (args[0] == "t")
-            {
-                Console.WriteLine("Pisteet");
-                return;
-            }
-
-            Console.WriteLine("Tuntematon komento.");
         }
     }
-}
+}§
