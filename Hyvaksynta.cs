@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
@@ -6,7 +7,7 @@ public class Hyvaksynta
 {
     public Hyvaksynta(string[] args)
     {
-        int kysymystenMäärä = 1; ;
+        int kysymystenMäärä = 1;
         string vastaus;
         List<string> vastaukset = new List<string>();
         while (true)
