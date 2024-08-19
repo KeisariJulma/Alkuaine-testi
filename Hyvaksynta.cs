@@ -6,7 +6,7 @@ public class Hyvaksynta
 {
     public Hyvaksynta(string[] args)
     {
-        int kysymystenMäärä = 1;
+        int kysymystenMäärä = 1; ;
         string vastaus;
         List<string> vastaukset = new List<string>();
         while (true)
@@ -18,11 +18,15 @@ public class Hyvaksynta
                 {
                     Console.WriteLine("samaa vastausta ei saa kirjoittaa kahdesti");
                 }
+                else
+                {
+                    vastaukset.Add(vastaus);
+                }
             }
             kysymystenMäärä++;
             if (kysymystenMäärä > 5)
             {
-
+                vastaukset.Clear();
             }
         }
     }
