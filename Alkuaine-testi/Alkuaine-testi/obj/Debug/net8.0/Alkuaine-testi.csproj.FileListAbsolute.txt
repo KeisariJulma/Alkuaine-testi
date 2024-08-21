@@ -1,0 +1,33 @@
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.exe
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.deps.json
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.runtimeconfig.json
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.pdb
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfoInputs.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfo.cs
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.csproj.CoreCompileInputs.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.sourcelink.json
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\refint\Alkuaine-testi.dll
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.pdb
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.genruntimeconfig.cache
+C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\ref\Alkuaine-testi.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.exe
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.deps.json
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.runtimeconfig.json
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.pdb
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfoInputs.cache
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfo.cs
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.csproj.CoreCompileInputs.cache
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.sourcelink.json
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\refint\Alkuaine-testi.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.pdb
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.genruntimeconfig.cache
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\ref\Alkuaine-testi.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.csproj.AssemblyReference.cache
+C:\Learning\Keisari Julma projektikansio\Alkuaine-testi\Alkuaine-testi\obj\Debug\net8.0\Alkuaine.DBB1A896.Up2Date

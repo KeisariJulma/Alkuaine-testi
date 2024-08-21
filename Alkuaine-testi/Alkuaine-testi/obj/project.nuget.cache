@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SyNYwDzRmDI=",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\Keisari Julma projektikansio\\Alkuaine-testi\\Alkuaine-testi\\Alkuaine-testi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paivi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
