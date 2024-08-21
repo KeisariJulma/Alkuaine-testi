@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Hyvaksynta2
 {
-    public static Hyvaksynta2()
+    public void Run()
     {
         int kysymystenMäärä = 0;
         string vastaus;
