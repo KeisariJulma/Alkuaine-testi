@@ -1,5 +1,6 @@
 using System;
 using static FileReader;
+using static Otantaominaisuus;
 
 public class Kayttoliittyma
 {
@@ -35,19 +36,7 @@ public class Kayttoliittyma
             }
             else if (args[0] == "-readfile")
             {
-                if (args.Length < 2)
-                {
-                    Console.WriteLine("Anna tiedoston nimi.");
-                }
-                else
-                {
-                    string fileName = args[1];
-                    List<string> lines = ReadFileToList(fileName);
-                    foreach (string line in lines)
-                    {
-                        Console.WriteLine(line);
-                    }
-                }
+                otantaominaisuus();
             }
         }
     }
