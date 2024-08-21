@@ -1,6 +1,7 @@
 using System;
 using static FileReader;
 using static Otantaominaisuus;
+using static Hyvaksynta2;
 
 public class Kayttoliittyma
 {
@@ -37,6 +38,10 @@ public class Kayttoliittyma
             else if (args[0] == "-readfile")
             {
                 otantaominaisuus();
+            }
+            else if (args[0] == "-HyväksyntäV2")
+            {
+                Hyvaksynta2();
             }
         }
     }

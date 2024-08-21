@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Hyvaksynta2
 {
-    public Hyvaksynta2(string[] args) // Corrected constructor name
+    public static Hyvaksynta2()
     {
         int kysymystenMäärä = 0;
         string vastaus;
@@ -22,5 +22,6 @@ public class Hyvaksynta2
                 kysymystenMäärä++;
             }
         }
+        vastaukset.Clear();
     }
 }
