@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-public class Hyvaksynta
+public class Hyvaksynta2
 {
-    public Hyvaksynta(string[] args)
+    public Hyvaksynta2(string[] args) // Corrected constructor name
     {
         int kysymystenMäärä = 0;
         string vastaus;
