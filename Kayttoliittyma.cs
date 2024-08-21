@@ -25,7 +25,6 @@ public class Kayttoliittyma
                     Console.WriteLine("Apu");
                     Console.WriteLine("p: Pelaa");
                     Console.WriteLine("t: Pisteet");
-                    Console.WriteLine("-readfile: Lue tiedosto");
                     Console.WriteLine("x: Lopeta ohjelma.");
                     Console.WriteLine("quit, exit, q, x: Lopeta ohjelma.");
                 }
