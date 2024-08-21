@@ -1,9 +1,9 @@
 using System;
 using static FileReader;
 
-public static class Käyttöliittymä
+public class Kayttoliittyma
 {
-    public static void Main(string[] args)
+    public static void Run(string[] args) // Renamed method to Run
     {
         if (args.Length == 0)
         {
