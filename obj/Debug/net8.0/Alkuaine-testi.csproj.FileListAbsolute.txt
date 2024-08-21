@@ -13,3 +13,18 @@ C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\refint\Alkuaine-testi.dll
 C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.pdb
 C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.genruntimeconfig.cache
 C:\Dev\Koulu\Alkuaine-testi\obj\Debug\net8.0\ref\Alkuaine-testi.dll
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfoInputs.cache
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.AssemblyInfo.cs
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.csproj.CoreCompileInputs.cache
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.sourcelink.json
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.dll
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\refint\Alkuaine-testi.dll
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.pdb
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.exe
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.deps.json
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.runtimeconfig.json
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.dll
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\bin\Debug\net8.0\Alkuaine-testi.pdb
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\Alkuaine-testi.genruntimeconfig.cache
+C:\Users\Lari\OneDrive - SASKY koulutuskuntayhtymä\Työpöytä\segithubtesti\Alkuaine-testi\obj\Debug\net8.0\ref\Alkuaine-testi.dll

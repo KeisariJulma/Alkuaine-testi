@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-public class Hyväksyntä
+public class Hyvaksynta2
 {
-    public Hyväksyntä(string[] args)
+    public Hyvaksynta2(string[] args) // Corrected constructor name
     {
         int kysymystenMäärä = 0;
         string vastaus;
@@ -22,6 +22,5 @@ public class Hyväksyntä
                 kysymystenMäärä++;
             }
         }
-        vastaukset.Clear();
     }
 }

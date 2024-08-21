@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj": {}
+    "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj": {
+    "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj",
+        "projectUniqueName": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj",
         "projectName": "Alkuaine-testi",
-        "projectPath": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj",
-        "packagesPath": "C:\\Users\\eltsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\obj\\",
+        "projectPath": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj",
+        "packagesPath": "C:\\Users\\Lari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eltsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lari\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
