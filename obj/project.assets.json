@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lari\\.nuget\\packages\\": {}
+    "C:\\Users\\paivi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj",
+      "projectUniqueName": "C:\\Learning\\Keisari Julma projektikansio\\Alkuaine-testi\\Alkuaine-testi.csproj",
       "projectName": "Alkuaine-testi",
-      "projectPath": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\Alkuaine-testi.csproj",
-      "packagesPath": "C:\\Users\\Lari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lari\\OneDrive - SASKY koulutuskuntayhtymä\\Työpöytä\\segithubtesti\\Alkuaine-testi\\obj\\",
+      "projectPath": "C:\\Learning\\Keisari Julma projektikansio\\Alkuaine-testi\\Alkuaine-testi.csproj",
+      "packagesPath": "C:\\Users\\paivi\\.nuget\\packages\\",
+      "outputPath": "C:\\Learning\\Keisari Julma projektikansio\\Alkuaine-testi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\paivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
