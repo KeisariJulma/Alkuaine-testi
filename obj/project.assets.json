@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Heino\\.nuget\\packages\\": {}
+    "C:\\Users\\eltsu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Koulu\\Alkuaine-testi\\Alkuaine-testi.csproj",
+      "projectUniqueName": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj",
       "projectName": "Alkuaine-testi",
-      "projectPath": "C:\\Dev\\Koulu\\Alkuaine-testi\\Alkuaine-testi.csproj",
-      "packagesPath": "C:\\Users\\Heino\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Koulu\\Alkuaine-testi\\obj\\",
+      "projectPath": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\Alkuaine-testi.csproj",
+      "packagesPath": "C:\\Users\\eltsu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eltsu\\Documents\\KeisariJulma\\Alkuaine-testi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Heino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\eltsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

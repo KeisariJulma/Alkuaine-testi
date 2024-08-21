@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-public class Hyvaksynta
+public class Hyväksyntä
 {
-    public Hyvaksynta(string[] args)
+    public Hyväksyntä(string[] args)
     {
         int kysymystenMäärä = 0;
         string vastaus;
@@ -22,5 +22,6 @@ public class Hyvaksynta
                 kysymystenMäärä++;
             }
         }
+        vastaukset.Clear();
     }
 }
